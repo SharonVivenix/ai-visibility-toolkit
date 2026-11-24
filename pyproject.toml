@@ -7,7 +7,7 @@ name = "ai-visibility-toolkit"
 version = "0.1.0"
 description = "Stdlib only CLI for AI visibility: crawler access, page readiness, prompt fan out and answer scoring."
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 license = { text = "MIT" }
 dependencies = []
 

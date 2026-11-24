@@ -70,7 +70,7 @@ Several engines split one question into multiple searches before answering. Goog
 
 ## ⚡ Quick start
 
-Python 3.9 or newer. Nothing to install.
+Python 3.10 or newer. Nothing to install.
 
 ```bash
 git clone https://github.com/SharonVivenix/ai-visibility-toolkit.git
