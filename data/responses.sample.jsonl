@@ -1,0 +1,192 @@
+{"prompt_id": "p01", "engine": "chatgpt", "ts": "2026-10-05", "answer": "Popular options include Lumen Notes, then Quillpad.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo"]}
+{"prompt_id": "p02", "engine": "chatgpt", "ts": "2026-10-05", "answer": "Popular options include Notebase, then Lumen Notes, then Quillpad.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo"]}
+{"prompt_id": "p03", "engine": "chatgpt", "ts": "2026-10-05", "answer": "Popular options include Notebase, then Lumen Notes, then Quillpad.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p04", "engine": "chatgpt", "ts": "2026-10-05", "answer": "Popular options include Lumen Notes.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo", "https://quillpad.example/compare"]}
+{"prompt_id": "p05", "engine": "chatgpt", "ts": "2026-10-05", "answer": "Popular options include Lumen Notes, then Quillpad.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo"]}
+{"prompt_id": "p06", "engine": "chatgpt", "ts": "2026-10-05", "answer": "Popular options include Lumen Notes, then Quillpad.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo", "https://quillpad.example/compare"]}
+{"prompt_id": "p07", "engine": "chatgpt", "ts": "2026-10-05", "answer": "Popular options include Notebase.", "citations": []}
+{"prompt_id": "p08", "engine": "chatgpt", "ts": "2026-10-05", "answer": "Popular options include Notebase, then Lumen Notes.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo"]}
+{"prompt_id": "p09", "engine": "chatgpt", "ts": "2026-10-05", "answer": "It depends on your workflow and team size.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p10", "engine": "chatgpt", "ts": "2026-10-05", "answer": "Popular options include Quillpad.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p11", "engine": "chatgpt", "ts": "2026-10-05", "answer": "Popular options include Notebase.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p12", "engine": "chatgpt", "ts": "2026-10-05", "answer": "Popular options include Lumen Notes.", "citations": []}
+{"prompt_id": "p01", "engine": "perplexity", "ts": "2026-10-05", "answer": "Popular options include Lumen Notes, then Quillpad, then Notebase.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo", "https://quillpad.example/compare"]}
+{"prompt_id": "p02", "engine": "perplexity", "ts": "2026-10-05", "answer": "Popular options include Notebase, then Quillpad, then Lumen Notes.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo", "https://quillpad.example/compare"]}
+{"prompt_id": "p03", "engine": "perplexity", "ts": "2026-10-05", "answer": "Popular options include Notebase, then Lumen Notes, then Quillpad.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo"]}
+{"prompt_id": "p04", "engine": "perplexity", "ts": "2026-10-05", "answer": "Popular options include Notebase, then Quillpad, then Lumen Notes.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p05", "engine": "perplexity", "ts": "2026-10-05", "answer": "Popular options include Notebase, then Lumen Notes.", "citations": []}
+{"prompt_id": "p06", "engine": "perplexity", "ts": "2026-10-05", "answer": "Popular options include Quillpad, then Lumen Notes.", "citations": []}
+{"prompt_id": "p07", "engine": "perplexity", "ts": "2026-10-05", "answer": "It depends on your workflow and team size.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p08", "engine": "perplexity", "ts": "2026-10-05", "answer": "Popular options include Notebase, then Quillpad.", "citations": []}
+{"prompt_id": "p09", "engine": "perplexity", "ts": "2026-10-05", "answer": "Popular options include Lumen Notes, then Quillpad.", "citations": []}
+{"prompt_id": "p10", "engine": "perplexity", "ts": "2026-10-05", "answer": "Popular options include Lumen Notes, then Notebase.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p11", "engine": "perplexity", "ts": "2026-10-05", "answer": "Popular options include Lumen Notes.", "citations": []}
+{"prompt_id": "p12", "engine": "perplexity", "ts": "2026-10-05", "answer": "Popular options include Lumen Notes, then Notebase.", "citations": []}
+{"prompt_id": "p01", "engine": "gemini", "ts": "2026-10-05", "answer": "Popular options include Quillpad.", "citations": []}
+{"prompt_id": "p02", "engine": "gemini", "ts": "2026-10-05", "answer": "Popular options include Notebase, then Quillpad.", "citations": []}
+{"prompt_id": "p03", "engine": "gemini", "ts": "2026-10-05", "answer": "Popular options include Notebase.", "citations": []}
+{"prompt_id": "p04", "engine": "gemini", "ts": "2026-10-05", "answer": "Popular options include Lumen Notes, then Notebase, then Quillpad.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p05", "engine": "gemini", "ts": "2026-10-05", "answer": "Popular options include Lumen Notes, then Notebase.", "citations": []}
+{"prompt_id": "p06", "engine": "gemini", "ts": "2026-10-05", "answer": "Popular options include Lumen Notes.", "citations": []}
+{"prompt_id": "p07", "engine": "gemini", "ts": "2026-10-05", "answer": "Popular options include Notebase, then Lumen Notes, then Quillpad.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo"]}
+{"prompt_id": "p08", "engine": "gemini", "ts": "2026-10-05", "answer": "Popular options include Quillpad.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p09", "engine": "gemini", "ts": "2026-10-05", "answer": "Popular options include Lumen Notes, then Notebase, then Quillpad.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo", "https://quillpad.example/compare"]}
+{"prompt_id": "p10", "engine": "gemini", "ts": "2026-10-05", "answer": "Popular options include Lumen Notes, then Quillpad.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo"]}
+{"prompt_id": "p11", "engine": "gemini", "ts": "2026-10-05", "answer": "Popular options include Notebase.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p12", "engine": "gemini", "ts": "2026-10-05", "answer": "Popular options include Quillpad.", "citations": []}
+{"prompt_id": "p01", "engine": "claude", "ts": "2026-10-05", "answer": "Popular options include Quillpad.", "citations": []}
+{"prompt_id": "p02", "engine": "claude", "ts": "2026-10-05", "answer": "Popular options include Quillpad, then Notebase, then Lumen Notes.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p03", "engine": "claude", "ts": "2026-10-05", "answer": "Popular options include Notebase.", "citations": []}
+{"prompt_id": "p04", "engine": "claude", "ts": "2026-10-05", "answer": "Popular options include Notebase, then Lumen Notes.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo", "https://quillpad.example/compare"]}
+{"prompt_id": "p05", "engine": "claude", "ts": "2026-10-05", "answer": "Popular options include Quillpad, then Lumen Notes.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p06", "engine": "claude", "ts": "2026-10-05", "answer": "Popular options include Lumen Notes.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p07", "engine": "claude", "ts": "2026-10-05", "answer": "Popular options include Quillpad.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p08", "engine": "claude", "ts": "2026-10-05", "answer": "Popular options include Notebase, then Quillpad.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p09", "engine": "claude", "ts": "2026-10-05", "answer": "Popular options include Quillpad, then Notebase.", "citations": []}
+{"prompt_id": "p10", "engine": "claude", "ts": "2026-10-05", "answer": "Popular options include Quillpad, then Notebase.", "citations": []}
+{"prompt_id": "p11", "engine": "claude", "ts": "2026-10-05", "answer": "It depends on your workflow and team size.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p12", "engine": "claude", "ts": "2026-10-05", "answer": "Popular options include Lumen Notes.", "citations": []}
+{"prompt_id": "p01", "engine": "chatgpt", "ts": "2026-10-12", "answer": "Popular options include Notebase, then Quillpad.", "citations": []}
+{"prompt_id": "p02", "engine": "chatgpt", "ts": "2026-10-12", "answer": "Popular options include Lumen Notes, then Notebase, then Quillpad.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo"]}
+{"prompt_id": "p03", "engine": "chatgpt", "ts": "2026-10-12", "answer": "Popular options include Lumen Notes, then Quillpad.", "citations": []}
+{"prompt_id": "p04", "engine": "chatgpt", "ts": "2026-10-12", "answer": "Popular options include Lumen Notes.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo"]}
+{"prompt_id": "p05", "engine": "chatgpt", "ts": "2026-10-12", "answer": "Popular options include Notebase.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p06", "engine": "chatgpt", "ts": "2026-10-12", "answer": "Popular options include Lumen Notes, then Notebase.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo"]}
+{"prompt_id": "p07", "engine": "chatgpt", "ts": "2026-10-12", "answer": "Popular options include Lumen Notes, then Notebase.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p08", "engine": "chatgpt", "ts": "2026-10-12", "answer": "Popular options include Notebase, then Quillpad.", "citations": []}
+{"prompt_id": "p09", "engine": "chatgpt", "ts": "2026-10-12", "answer": "Popular options include Quillpad, then Lumen Notes.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p10", "engine": "chatgpt", "ts": "2026-10-12", "answer": "Popular options include Lumen Notes, then Quillpad, then Notebase.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo"]}
+{"prompt_id": "p11", "engine": "chatgpt", "ts": "2026-10-12", "answer": "Popular options include Quillpad, then Notebase.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p12", "engine": "chatgpt", "ts": "2026-10-12", "answer": "Popular options include Notebase, then Quillpad.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p01", "engine": "perplexity", "ts": "2026-10-12", "answer": "Popular options include Quillpad.", "citations": []}
+{"prompt_id": "p02", "engine": "perplexity", "ts": "2026-10-12", "answer": "Popular options include Lumen Notes, then Notebase, then Quillpad.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo"]}
+{"prompt_id": "p03", "engine": "perplexity", "ts": "2026-10-12", "answer": "Popular options include Notebase.", "citations": []}
+{"prompt_id": "p04", "engine": "perplexity", "ts": "2026-10-12", "answer": "Popular options include Lumen Notes, then Quillpad.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo"]}
+{"prompt_id": "p05", "engine": "perplexity", "ts": "2026-10-12", "answer": "Popular options include Notebase, then Lumen Notes, then Quillpad.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo", "https://quillpad.example/compare"]}
+{"prompt_id": "p06", "engine": "perplexity", "ts": "2026-10-12", "answer": "Popular options include Lumen Notes.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo", "https://quillpad.example/compare"]}
+{"prompt_id": "p07", "engine": "perplexity", "ts": "2026-10-12", "answer": "Popular options include Lumen Notes, then Notebase, then Quillpad.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p08", "engine": "perplexity", "ts": "2026-10-12", "answer": "Popular options include Lumen Notes.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo", "https://quillpad.example/compare"]}
+{"prompt_id": "p09", "engine": "perplexity", "ts": "2026-10-12", "answer": "Popular options include Quillpad, then Lumen Notes.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo", "https://quillpad.example/compare"]}
+{"prompt_id": "p10", "engine": "perplexity", "ts": "2026-10-12", "answer": "Popular options include Lumen Notes, then Quillpad.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo"]}
+{"prompt_id": "p11", "engine": "perplexity", "ts": "2026-10-12", "answer": "Popular options include Quillpad, then Lumen Notes.", "citations": []}
+{"prompt_id": "p12", "engine": "perplexity", "ts": "2026-10-12", "answer": "Popular options include Lumen Notes.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo"]}
+{"prompt_id": "p01", "engine": "gemini", "ts": "2026-10-12", "answer": "Popular options include Lumen Notes, then Quillpad.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo"]}
+{"prompt_id": "p02", "engine": "gemini", "ts": "2026-10-12", "answer": "Popular options include Quillpad, then Notebase, then Lumen Notes.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo"]}
+{"prompt_id": "p03", "engine": "gemini", "ts": "2026-10-12", "answer": "Popular options include Notebase, then Lumen Notes.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo", "https://quillpad.example/compare"]}
+{"prompt_id": "p04", "engine": "gemini", "ts": "2026-10-12", "answer": "It depends on your workflow and team size.", "citations": []}
+{"prompt_id": "p05", "engine": "gemini", "ts": "2026-10-12", "answer": "It depends on your workflow and team size.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p06", "engine": "gemini", "ts": "2026-10-12", "answer": "Popular options include Lumen Notes, then Quillpad.", "citations": []}
+{"prompt_id": "p07", "engine": "gemini", "ts": "2026-10-12", "answer": "Popular options include Quillpad, then Lumen Notes, then Notebase.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p08", "engine": "gemini", "ts": "2026-10-12", "answer": "Popular options include Lumen Notes, then Notebase.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo", "https://quillpad.example/compare"]}
+{"prompt_id": "p09", "engine": "gemini", "ts": "2026-10-12", "answer": "Popular options include Lumen Notes, then Quillpad.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo", "https://quillpad.example/compare"]}
+{"prompt_id": "p10", "engine": "gemini", "ts": "2026-10-12", "answer": "Popular options include Quillpad, then Notebase, then Lumen Notes.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p11", "engine": "gemini", "ts": "2026-10-12", "answer": "Popular options include Quillpad.", "citations": []}
+{"prompt_id": "p12", "engine": "gemini", "ts": "2026-10-12", "answer": "It depends on your workflow and team size.", "citations": []}
+{"prompt_id": "p01", "engine": "claude", "ts": "2026-10-12", "answer": "Popular options include Lumen Notes, then Notebase, then Quillpad.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo"]}
+{"prompt_id": "p02", "engine": "claude", "ts": "2026-10-12", "answer": "Popular options include Notebase.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p03", "engine": "claude", "ts": "2026-10-12", "answer": "Popular options include Lumen Notes, then Quillpad.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo", "https://quillpad.example/compare"]}
+{"prompt_id": "p04", "engine": "claude", "ts": "2026-10-12", "answer": "It depends on your workflow and team size.", "citations": []}
+{"prompt_id": "p05", "engine": "claude", "ts": "2026-10-12", "answer": "Popular options include Notebase, then Quillpad.", "citations": []}
+{"prompt_id": "p06", "engine": "claude", "ts": "2026-10-12", "answer": "It depends on your workflow and team size.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p07", "engine": "claude", "ts": "2026-10-12", "answer": "Popular options include Lumen Notes, then Notebase.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo", "https://quillpad.example/compare"]}
+{"prompt_id": "p08", "engine": "claude", "ts": "2026-10-12", "answer": "Popular options include Notebase, then Lumen Notes.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo", "https://quillpad.example/compare"]}
+{"prompt_id": "p09", "engine": "claude", "ts": "2026-10-12", "answer": "Popular options include Lumen Notes, then Notebase.", "citations": []}
+{"prompt_id": "p10", "engine": "claude", "ts": "2026-10-12", "answer": "Popular options include Notebase, then Lumen Notes.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p11", "engine": "claude", "ts": "2026-10-12", "answer": "Popular options include Quillpad, then Lumen Notes, then Notebase.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo"]}
+{"prompt_id": "p12", "engine": "claude", "ts": "2026-10-12", "answer": "Popular options include Notebase.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p01", "engine": "chatgpt", "ts": "2026-10-19", "answer": "Popular options include Notebase, then Lumen Notes.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo"]}
+{"prompt_id": "p02", "engine": "chatgpt", "ts": "2026-10-19", "answer": "Popular options include Notebase.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p03", "engine": "chatgpt", "ts": "2026-10-19", "answer": "Popular options include Notebase, then Quillpad.", "citations": []}
+{"prompt_id": "p04", "engine": "chatgpt", "ts": "2026-10-19", "answer": "It depends on your workflow and team size.", "citations": []}
+{"prompt_id": "p05", "engine": "chatgpt", "ts": "2026-10-19", "answer": "Popular options include Notebase.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p06", "engine": "chatgpt", "ts": "2026-10-19", "answer": "Popular options include Lumen Notes.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo"]}
+{"prompt_id": "p07", "engine": "chatgpt", "ts": "2026-10-19", "answer": "Popular options include Quillpad.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p08", "engine": "chatgpt", "ts": "2026-10-19", "answer": "Popular options include Quillpad, then Notebase.", "citations": []}
+{"prompt_id": "p09", "engine": "chatgpt", "ts": "2026-10-19", "answer": "Popular options include Notebase, then Quillpad.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p10", "engine": "chatgpt", "ts": "2026-10-19", "answer": "Popular options include Notebase.", "citations": []}
+{"prompt_id": "p11", "engine": "chatgpt", "ts": "2026-10-19", "answer": "It depends on your workflow and team size.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p12", "engine": "chatgpt", "ts": "2026-10-19", "answer": "Popular options include Notebase, then Quillpad, then Lumen Notes.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo", "https://quillpad.example/compare"]}
+{"prompt_id": "p01", "engine": "perplexity", "ts": "2026-10-19", "answer": "Popular options include Notebase, then Quillpad.", "citations": []}
+{"prompt_id": "p02", "engine": "perplexity", "ts": "2026-10-19", "answer": "Popular options include Notebase, then Lumen Notes.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo"]}
+{"prompt_id": "p03", "engine": "perplexity", "ts": "2026-10-19", "answer": "Popular options include Quillpad, then Lumen Notes, then Notebase.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo"]}
+{"prompt_id": "p04", "engine": "perplexity", "ts": "2026-10-19", "answer": "Popular options include Lumen Notes, then Notebase, then Quillpad.", "citations": []}
+{"prompt_id": "p05", "engine": "perplexity", "ts": "2026-10-19", "answer": "Popular options include Quillpad, then Lumen Notes.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo"]}
+{"prompt_id": "p06", "engine": "perplexity", "ts": "2026-10-19", "answer": "Popular options include Quillpad.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p07", "engine": "perplexity", "ts": "2026-10-19", "answer": "Popular options include Quillpad, then Notebase, then Lumen Notes.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo", "https://quillpad.example/compare"]}
+{"prompt_id": "p08", "engine": "perplexity", "ts": "2026-10-19", "answer": "Popular options include Quillpad, then Lumen Notes, then Notebase.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo"]}
+{"prompt_id": "p09", "engine": "perplexity", "ts": "2026-10-19", "answer": "Popular options include Notebase, then Quillpad.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p10", "engine": "perplexity", "ts": "2026-10-19", "answer": "Popular options include Quillpad, then Lumen Notes.", "citations": []}
+{"prompt_id": "p11", "engine": "perplexity", "ts": "2026-10-19", "answer": "Popular options include Lumen Notes.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo", "https://quillpad.example/compare"]}
+{"prompt_id": "p12", "engine": "perplexity", "ts": "2026-10-19", "answer": "Popular options include Lumen Notes, then Quillpad.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p01", "engine": "gemini", "ts": "2026-10-19", "answer": "Popular options include Notebase, then Quillpad.", "citations": []}
+{"prompt_id": "p02", "engine": "gemini", "ts": "2026-10-19", "answer": "It depends on your workflow and team size.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p03", "engine": "gemini", "ts": "2026-10-19", "answer": "Popular options include Lumen Notes.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo"]}
+{"prompt_id": "p04", "engine": "gemini", "ts": "2026-10-19", "answer": "Popular options include Notebase.", "citations": []}
+{"prompt_id": "p05", "engine": "gemini", "ts": "2026-10-19", "answer": "Popular options include Notebase.", "citations": []}
+{"prompt_id": "p06", "engine": "gemini", "ts": "2026-10-19", "answer": "It depends on your workflow and team size.", "citations": []}
+{"prompt_id": "p07", "engine": "gemini", "ts": "2026-10-19", "answer": "Popular options include Quillpad, then Notebase, then Lumen Notes.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo"]}
+{"prompt_id": "p08", "engine": "gemini", "ts": "2026-10-19", "answer": "Popular options include Lumen Notes, then Notebase.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo"]}
+{"prompt_id": "p09", "engine": "gemini", "ts": "2026-10-19", "answer": "Popular options include Notebase, then Quillpad.", "citations": []}
+{"prompt_id": "p10", "engine": "gemini", "ts": "2026-10-19", "answer": "Popular options include Quillpad, then Lumen Notes.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo"]}
+{"prompt_id": "p11", "engine": "gemini", "ts": "2026-10-19", "answer": "Popular options include Notebase.", "citations": []}
+{"prompt_id": "p12", "engine": "gemini", "ts": "2026-10-19", "answer": "Popular options include Lumen Notes, then Quillpad.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo", "https://quillpad.example/compare"]}
+{"prompt_id": "p01", "engine": "claude", "ts": "2026-10-19", "answer": "Popular options include Lumen Notes, then Notebase.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo"]}
+{"prompt_id": "p02", "engine": "claude", "ts": "2026-10-19", "answer": "Popular options include Quillpad.", "citations": []}
+{"prompt_id": "p03", "engine": "claude", "ts": "2026-10-19", "answer": "Popular options include Notebase.", "citations": []}
+{"prompt_id": "p04", "engine": "claude", "ts": "2026-10-19", "answer": "Popular options include Quillpad.", "citations": []}
+{"prompt_id": "p05", "engine": "claude", "ts": "2026-10-19", "answer": "Popular options include Notebase, then Lumen Notes.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo"]}
+{"prompt_id": "p06", "engine": "claude", "ts": "2026-10-19", "answer": "Popular options include Lumen Notes, then Notebase.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo"]}
+{"prompt_id": "p07", "engine": "claude", "ts": "2026-10-19", "answer": "Popular options include Quillpad, then Lumen Notes.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo", "https://quillpad.example/compare"]}
+{"prompt_id": "p08", "engine": "claude", "ts": "2026-10-19", "answer": "Popular options include Notebase.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p09", "engine": "claude", "ts": "2026-10-19", "answer": "Popular options include Lumen Notes.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p10", "engine": "claude", "ts": "2026-10-19", "answer": "Popular options include Notebase, then Quillpad.", "citations": []}
+{"prompt_id": "p11", "engine": "claude", "ts": "2026-10-19", "answer": "Popular options include Notebase.", "citations": []}
+{"prompt_id": "p12", "engine": "claude", "ts": "2026-10-19", "answer": "Popular options include Quillpad, then Notebase.", "citations": []}
+{"prompt_id": "p01", "engine": "chatgpt", "ts": "2026-10-26", "answer": "Popular options include Lumen Notes, then Notebase.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo", "https://quillpad.example/compare"]}
+{"prompt_id": "p02", "engine": "chatgpt", "ts": "2026-10-26", "answer": "Popular options include Lumen Notes.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p03", "engine": "chatgpt", "ts": "2026-10-26", "answer": "Popular options include Lumen Notes, then Quillpad.", "citations": []}
+{"prompt_id": "p04", "engine": "chatgpt", "ts": "2026-10-26", "answer": "It depends on your workflow and team size.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p05", "engine": "chatgpt", "ts": "2026-10-26", "answer": "Popular options include Notebase, then Lumen Notes.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo"]}
+{"prompt_id": "p06", "engine": "chatgpt", "ts": "2026-10-26", "answer": "Popular options include Lumen Notes, then Quillpad, then Notebase.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo", "https://quillpad.example/compare"]}
+{"prompt_id": "p07", "engine": "chatgpt", "ts": "2026-10-26", "answer": "Popular options include Notebase.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p08", "engine": "chatgpt", "ts": "2026-10-26", "answer": "Popular options include Quillpad, then Lumen Notes, then Notebase.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p09", "engine": "chatgpt", "ts": "2026-10-26", "answer": "Popular options include Lumen Notes, then Quillpad.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p10", "engine": "chatgpt", "ts": "2026-10-26", "answer": "Popular options include Notebase, then Lumen Notes.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p11", "engine": "chatgpt", "ts": "2026-10-26", "answer": "Popular options include Lumen Notes.", "citations": []}
+{"prompt_id": "p12", "engine": "chatgpt", "ts": "2026-10-26", "answer": "Popular options include Notebase, then Lumen Notes, then Quillpad.", "citations": []}
+{"prompt_id": "p01", "engine": "perplexity", "ts": "2026-10-26", "answer": "Popular options include Notebase, then Quillpad, then Lumen Notes.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo", "https://quillpad.example/compare"]}
+{"prompt_id": "p02", "engine": "perplexity", "ts": "2026-10-26", "answer": "It depends on your workflow and team size.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p03", "engine": "perplexity", "ts": "2026-10-26", "answer": "Popular options include Quillpad, then Notebase.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p04", "engine": "perplexity", "ts": "2026-10-26", "answer": "Popular options include Lumen Notes, then Quillpad, then Notebase.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p05", "engine": "perplexity", "ts": "2026-10-26", "answer": "Popular options include Lumen Notes.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo", "https://quillpad.example/compare"]}
+{"prompt_id": "p06", "engine": "perplexity", "ts": "2026-10-26", "answer": "Popular options include Lumen Notes, then Quillpad.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p07", "engine": "perplexity", "ts": "2026-10-26", "answer": "Popular options include Quillpad, then Lumen Notes, then Notebase.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo"]}
+{"prompt_id": "p08", "engine": "perplexity", "ts": "2026-10-26", "answer": "Popular options include Lumen Notes.", "citations": []}
+{"prompt_id": "p09", "engine": "perplexity", "ts": "2026-10-26", "answer": "Popular options include Quillpad.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p10", "engine": "perplexity", "ts": "2026-10-26", "answer": "Popular options include Lumen Notes, then Quillpad.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo"]}
+{"prompt_id": "p11", "engine": "perplexity", "ts": "2026-10-26", "answer": "Popular options include Lumen Notes, then Notebase.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo"]}
+{"prompt_id": "p12", "engine": "perplexity", "ts": "2026-10-26", "answer": "Popular options include Notebase, then Quillpad, then Lumen Notes.", "citations": []}
+{"prompt_id": "p01", "engine": "gemini", "ts": "2026-10-26", "answer": "Popular options include Notebase.", "citations": []}
+{"prompt_id": "p02", "engine": "gemini", "ts": "2026-10-26", "answer": "Popular options include Notebase.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p03", "engine": "gemini", "ts": "2026-10-26", "answer": "Popular options include Lumen Notes.", "citations": []}
+{"prompt_id": "p04", "engine": "gemini", "ts": "2026-10-26", "answer": "Popular options include Notebase, then Quillpad.", "citations": []}
+{"prompt_id": "p05", "engine": "gemini", "ts": "2026-10-26", "answer": "Popular options include Notebase, then Quillpad.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p06", "engine": "gemini", "ts": "2026-10-26", "answer": "Popular options include Notebase, then Lumen Notes.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo"]}
+{"prompt_id": "p07", "engine": "gemini", "ts": "2026-10-26", "answer": "Popular options include Lumen Notes, then Notebase, then Quillpad.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p08", "engine": "gemini", "ts": "2026-10-26", "answer": "Popular options include Notebase.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p09", "engine": "gemini", "ts": "2026-10-26", "answer": "Popular options include Notebase, then Quillpad.", "citations": []}
+{"prompt_id": "p10", "engine": "gemini", "ts": "2026-10-26", "answer": "Popular options include Lumen Notes, then Notebase.", "citations": []}
+{"prompt_id": "p11", "engine": "gemini", "ts": "2026-10-26", "answer": "It depends on your workflow and team size.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p12", "engine": "gemini", "ts": "2026-10-26", "answer": "Popular options include Notebase.", "citations": []}
+{"prompt_id": "p01", "engine": "claude", "ts": "2026-10-26", "answer": "Popular options include Lumen Notes, then Quillpad.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo", "https://quillpad.example/compare"]}
+{"prompt_id": "p02", "engine": "claude", "ts": "2026-10-26", "answer": "Popular options include Lumen Notes, then Quillpad.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo", "https://quillpad.example/compare"]}
+{"prompt_id": "p03", "engine": "claude", "ts": "2026-10-26", "answer": "Popular options include Lumen Notes, then Quillpad.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo", "https://quillpad.example/compare"]}
+{"prompt_id": "p04", "engine": "claude", "ts": "2026-10-26", "answer": "Popular options include Quillpad, then Notebase, then Lumen Notes.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo"]}
+{"prompt_id": "p05", "engine": "claude", "ts": "2026-10-26", "answer": "Popular options include Notebase.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p06", "engine": "claude", "ts": "2026-10-26", "answer": "Popular options include Notebase, then Quillpad.", "citations": []}
+{"prompt_id": "p07", "engine": "claude", "ts": "2026-10-26", "answer": "Popular options include Lumen Notes, then Quillpad, then Notebase.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo"]}
+{"prompt_id": "p08", "engine": "claude", "ts": "2026-10-26", "answer": "Popular options include Quillpad, then Notebase.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p09", "engine": "claude", "ts": "2026-10-26", "answer": "It depends on your workflow and team size.", "citations": ["https://quillpad.example/compare"]}
+{"prompt_id": "p10", "engine": "claude", "ts": "2026-10-26", "answer": "Popular options include Quillpad, then Notebase, then Lumen Notes.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo", "https://quillpad.example/compare"]}
+{"prompt_id": "p11", "engine": "claude", "ts": "2026-10-26", "answer": "Popular options include Lumen Notes, then Quillpad.", "citations": ["https://www.lumennotes.example/blog/what-is-aeo", "https://quillpad.example/compare"]}
+{"prompt_id": "p12", "engine": "claude", "ts": "2026-10-26", "answer": "Popular options include Lumen Notes, then Quillpad, then Notebase.", "citations": []}

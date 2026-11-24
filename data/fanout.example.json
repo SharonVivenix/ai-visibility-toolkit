@@ -1,0 +1,23 @@
+{
+  "category": "note taking app",
+  "personas": ["a student", "a product manager", "a small team lead"],
+  "competitors": ["Quillpad", "Notebase"],
+  "intents": {
+    "discovery": [
+      "best {category} for {persona}",
+      "which {category} should {persona} pick"
+    ],
+    "comparison": [
+      "{brand} vs {competitor}",
+      "is {brand} better than {competitor} for {persona}"
+    ],
+    "problem": [
+      "how do I keep research notes searchable",
+      "how to sync notes across devices without a subscription"
+    ],
+    "brand": [
+      "what is {brand}",
+      "is {brand} worth paying for"
+    ]
+  }
+}
